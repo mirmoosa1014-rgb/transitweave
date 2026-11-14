@@ -1,0 +1,2882 @@
+[
+  {
+    "seed": 1001,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.2358447671904145
+  },
+  {
+    "seed": 1002,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.054641567795861
+  },
+  {
+    "seed": 1003,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.9934271468512543
+  },
+  {
+    "seed": 1004,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.7561567345661606
+  },
+  {
+    "seed": 1005,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.629655100949952
+  },
+  {
+    "seed": 1006,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.08743517122941
+  },
+  {
+    "seed": 1007,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.389701710121129
+  },
+  {
+    "seed": 1008,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.041326377432594
+  },
+  {
+    "seed": 1009,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.134952023153578
+  },
+  {
+    "seed": 1010,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.404811925138579
+  },
+  {
+    "seed": 1011,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.957248970981605
+  },
+  {
+    "seed": 1012,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.954551944297137
+  },
+  {
+    "seed": 1013,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 5.024872001869835
+  },
+  {
+    "seed": 1014,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.393309898375989
+  },
+  {
+    "seed": 1015,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.936818044532372
+  },
+  {
+    "seed": 1016,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.057516603022566
+  },
+  {
+    "seed": 1017,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.330337541054468
+  },
+  {
+    "seed": 1018,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.693553804652776
+  },
+  {
+    "seed": 1019,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 5.038127493446081
+  },
+  {
+    "seed": 1020,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.521370149274863
+  },
+  {
+    "seed": 1021,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.2510113597877
+  },
+  {
+    "seed": 1022,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.408694078334502
+  },
+  {
+    "seed": 1023,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.061453403561653
+  },
+  {
+    "seed": 1024,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.498231516861527
+  },
+  {
+    "seed": 1025,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.060477487817365
+  },
+  {
+    "seed": 1026,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.8507648116783284
+  },
+  {
+    "seed": 1027,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.905739761705224
+  },
+  {
+    "seed": 1028,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.48482355604687
+  },
+  {
+    "seed": 1029,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.238391194738573
+  },
+  {
+    "seed": 1030,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.339884698156641
+  },
+  {
+    "seed": 1031,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.6171707865329505
+  },
+  {
+    "seed": 1032,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.545251206396547
+  },
+  {
+    "seed": 1033,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.6971303421735984
+  },
+  {
+    "seed": 1034,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 5.481545450967209
+  },
+  {
+    "seed": 1035,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.274475090895588
+  },
+  {
+    "seed": 1036,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.103222820701817
+  },
+  {
+    "seed": 1037,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.126352087423728
+  },
+  {
+    "seed": 1038,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.167868204507636
+  },
+  {
+    "seed": 1039,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 3.9350961143838226
+  },
+  {
+    "seed": 1040,
+    "family": "quiet",
+    "window_days": 0,
+    "score": 4.499364711672683
+  },
+  {
+    "seed": 1001,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.647447217091234
+  },
+  {
+    "seed": 1002,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.114393554861687
+  },
+  {
+    "seed": 1003,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.931179895067208
+  },
+  {
+    "seed": 1004,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.068455634745364
+  },
+  {
+    "seed": 1005,
+    "family": "variable",
+    "window_days": 0,
+    "score": 10.729226815755577
+  },
+  {
+    "seed": 1006,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.002790386486833
+  },
+  {
+    "seed": 1007,
+    "family": "variable",
+    "window_days": 0,
+    "score": 9.758871161803949
+  },
+  {
+    "seed": 1008,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.552815595638945
+  },
+  {
+    "seed": 1009,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.052443725800245
+  },
+  {
+    "seed": 1010,
+    "family": "variable",
+    "window_days": 0,
+    "score": 10.360490541298432
+  },
+  {
+    "seed": 1011,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.199394876102444
+  },
+  {
+    "seed": 1012,
+    "family": "variable",
+    "window_days": 0,
+    "score": 14.570538988925883
+  },
+  {
+    "seed": 1013,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.759716515102008
+  },
+  {
+    "seed": 1014,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.668427364474656
+  },
+  {
+    "seed": 1015,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.625766990369753
+  },
+  {
+    "seed": 1016,
+    "family": "variable",
+    "window_days": 0,
+    "score": 17.48746795761449
+  },
+  {
+    "seed": 1017,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.514566052287966
+  },
+  {
+    "seed": 1018,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.643660999871388
+  },
+  {
+    "seed": 1019,
+    "family": "variable",
+    "window_days": 0,
+    "score": 18.3733999865834
+  },
+  {
+    "seed": 1020,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.285206258375197
+  },
+  {
+    "seed": 1021,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.493714167451992
+  },
+  {
+    "seed": 1022,
+    "family": "variable",
+    "window_days": 0,
+    "score": 14.186896760200751
+  },
+  {
+    "seed": 1023,
+    "family": "variable",
+    "window_days": 0,
+    "score": 10.954056499604235
+  },
+  {
+    "seed": 1024,
+    "family": "variable",
+    "window_days": 0,
+    "score": 9.07400165656264
+  },
+  {
+    "seed": 1025,
+    "family": "variable",
+    "window_days": 0,
+    "score": 15.182343915217478
+  },
+  {
+    "seed": 1026,
+    "family": "variable",
+    "window_days": 0,
+    "score": 14.606840055972212
+  },
+  {
+    "seed": 1027,
+    "family": "variable",
+    "window_days": 0,
+    "score": 13.179301358443091
+  },
+  {
+    "seed": 1028,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.762530518668012
+  },
+  {
+    "seed": 1029,
+    "family": "variable",
+    "window_days": 0,
+    "score": 17.416665790159033
+  },
+  {
+    "seed": 1030,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.866407181157477
+  },
+  {
+    "seed": 1031,
+    "family": "variable",
+    "window_days": 0,
+    "score": 15.598478356817942
+  },
+  {
+    "seed": 1032,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.197590640625059
+  },
+  {
+    "seed": 1033,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.905335865957902
+  },
+  {
+    "seed": 1034,
+    "family": "variable",
+    "window_days": 0,
+    "score": 10.807349027132405
+  },
+  {
+    "seed": 1035,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.437629238874813
+  },
+  {
+    "seed": 1036,
+    "family": "variable",
+    "window_days": 0,
+    "score": 12.844359613202469
+  },
+  {
+    "seed": 1037,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.589215214576514
+  },
+  {
+    "seed": 1038,
+    "family": "variable",
+    "window_days": 0,
+    "score": 11.17869157726423
+  },
+  {
+    "seed": 1039,
+    "family": "variable",
+    "window_days": 0,
+    "score": 10.297441159912454
+  },
+  {
+    "seed": 1040,
+    "family": "variable",
+    "window_days": 0,
+    "score": 15.803881923432783
+  },
+  {
+    "seed": 1001,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 11.39712468954315
+  },
+  {
+    "seed": 1002,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 15.339255472246325
+  },
+  {
+    "seed": 1003,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.481260161974635
+  },
+  {
+    "seed": 1004,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.362166833729374
+  },
+  {
+    "seed": 1005,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.485449197499555
+  },
+  {
+    "seed": 1006,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.595147307504453
+  },
+  {
+    "seed": 1007,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 15.254070698371617
+  },
+  {
+    "seed": 1008,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.742293594445004
+  },
+  {
+    "seed": 1009,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.167170187015033
+  },
+  {
+    "seed": 1010,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.581043116576168
+  },
+  {
+    "seed": 1011,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 15.808215239876166
+  },
+  {
+    "seed": 1012,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 16.982995293200787
+  },
+  {
+    "seed": 1013,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.883114407071709
+  },
+  {
+    "seed": 1014,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 15.960697927824217
+  },
+  {
+    "seed": 1015,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 18.679186474953774
+  },
+  {
+    "seed": 1016,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.410685640427305
+  },
+  {
+    "seed": 1017,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 12.216644201094928
+  },
+  {
+    "seed": 1018,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 16.67843378718791
+  },
+  {
+    "seed": 1019,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.177089277752447
+  },
+  {
+    "seed": 1020,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.02969130165035
+  },
+  {
+    "seed": 1021,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 18.6147412176669
+  },
+  {
+    "seed": 1022,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.827154826489037
+  },
+  {
+    "seed": 1023,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 11.929567377257204
+  },
+  {
+    "seed": 1024,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 10.228365535879197
+  },
+  {
+    "seed": 1025,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.962327771090143
+  },
+  {
+    "seed": 1026,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 17.034595849956585
+  },
+  {
+    "seed": 1027,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 17.8664138233714
+  },
+  {
+    "seed": 1028,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 18.699830669994732
+  },
+  {
+    "seed": 1029,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 16.867532474740806
+  },
+  {
+    "seed": 1030,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.09436434906638
+  },
+  {
+    "seed": 1031,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 11.340192374741063
+  },
+  {
+    "seed": 1032,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 10.475232916471972
+  },
+  {
+    "seed": 1033,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.834690000216389
+  },
+  {
+    "seed": 1034,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.997977702089669
+  },
+  {
+    "seed": 1035,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 13.445038642109642
+  },
+  {
+    "seed": 1036,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 17.59921338054161
+  },
+  {
+    "seed": 1037,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 10.14040285925311
+  },
+  {
+    "seed": 1038,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 10.087553712116662
+  },
+  {
+    "seed": 1039,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 12.218825720961977
+  },
+  {
+    "seed": 1040,
+    "family": "gapped",
+    "window_days": 0,
+    "score": 14.661612248112519
+  },
+  {
+    "seed": 1001,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.177491221119374
+  },
+  {
+    "seed": 1002,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.234690560676519
+  },
+  {
+    "seed": 1003,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.860921631028898
+  },
+  {
+    "seed": 1004,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.8236016041132146
+  },
+  {
+    "seed": 1005,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.792142748463062
+  },
+  {
+    "seed": 1006,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.1413990532304075
+  },
+  {
+    "seed": 1007,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.210301853892459
+  },
+  {
+    "seed": 1008,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.936843731833499
+  },
+  {
+    "seed": 1009,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.043346639948188
+  },
+  {
+    "seed": 1010,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.267837724327129
+  },
+  {
+    "seed": 1011,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.3666440719793265
+  },
+  {
+    "seed": 1012,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.6493927191282705
+  },
+  {
+    "seed": 1013,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.1448685800203275
+  },
+  {
+    "seed": 1014,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.80930098393479
+  },
+  {
+    "seed": 1015,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.302242902059404
+  },
+  {
+    "seed": 1016,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.049418640851408
+  },
+  {
+    "seed": 1017,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.041038757430209
+  },
+  {
+    "seed": 1018,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.57758287003536
+  },
+  {
+    "seed": 1019,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.554701237772999
+  },
+  {
+    "seed": 1020,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.376320974351101
+  },
+  {
+    "seed": 1021,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.264368313514542
+  },
+  {
+    "seed": 1022,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.326661572064355
+  },
+  {
+    "seed": 1023,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.838097612974303
+  },
+  {
+    "seed": 1024,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.440950802796077
+  },
+  {
+    "seed": 1025,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.930577700546056
+  },
+  {
+    "seed": 1026,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.9879967819490485
+  },
+  {
+    "seed": 1027,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.871481646759014
+  },
+  {
+    "seed": 1028,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.6480235483860515
+  },
+  {
+    "seed": 1029,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.8109826850541277
+  },
+  {
+    "seed": 1030,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.253766475705202
+  },
+  {
+    "seed": 1031,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.172168608829559
+  },
+  {
+    "seed": 1032,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.184845734116707
+  },
+  {
+    "seed": 1033,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.7060972297311086
+  },
+  {
+    "seed": 1034,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.794113000218311
+  },
+  {
+    "seed": 1035,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.3836973039999725
+  },
+  {
+    "seed": 1036,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.358579797102137
+  },
+  {
+    "seed": 1037,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 3.830464760957757
+  },
+  {
+    "seed": 1038,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.088383975451069
+  },
+  {
+    "seed": 1039,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.111523146855134
+  },
+  {
+    "seed": 1040,
+    "family": "quiet",
+    "window_days": 0.6,
+    "score": 4.133993204823872
+  },
+  {
+    "seed": 1001,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.2644439552409485
+  },
+  {
+    "seed": 1002,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.9645393861847484
+  },
+  {
+    "seed": 1003,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.761470499009923
+  },
+  {
+    "seed": 1004,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.8258663792782683
+  },
+  {
+    "seed": 1005,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.723884381397173
+  },
+  {
+    "seed": 1006,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.416938176910879
+  },
+  {
+    "seed": 1007,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.139145457551648
+  },
+  {
+    "seed": 1008,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.776472258914485
+  },
+  {
+    "seed": 1009,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.146247116290555
+  },
+  {
+    "seed": 1010,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.198960331632537
+  },
+  {
+    "seed": 1011,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.404292700766305
+  },
+  {
+    "seed": 1012,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.7921237739806317
+  },
+  {
+    "seed": 1013,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.8813760241681896
+  },
+  {
+    "seed": 1014,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.798910840237801
+  },
+  {
+    "seed": 1015,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.488907857960841
+  },
+  {
+    "seed": 1016,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.070067976482562
+  },
+  {
+    "seed": 1017,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.313317868506779
+  },
+  {
+    "seed": 1018,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.511936231713142
+  },
+  {
+    "seed": 1019,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.719301740494116
+  },
+  {
+    "seed": 1020,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.5121450274604324
+  },
+  {
+    "seed": 1021,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.099990751590256
+  },
+  {
+    "seed": 1022,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.3414985931132355
+  },
+  {
+    "seed": 1023,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.742664633629389
+  },
+  {
+    "seed": 1024,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.828571454303111
+  },
+  {
+    "seed": 1025,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.662006690026365
+  },
+  {
+    "seed": 1026,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.2048038736247495
+  },
+  {
+    "seed": 1027,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.7283660721534817
+  },
+  {
+    "seed": 1028,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.51350864797195
+  },
+  {
+    "seed": 1029,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.5388101696138254
+  },
+  {
+    "seed": 1030,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.2750458333800685
+  },
+  {
+    "seed": 1031,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.187589717527135
+  },
+  {
+    "seed": 1032,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.308111372452847
+  },
+  {
+    "seed": 1033,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.823301635582219
+  },
+  {
+    "seed": 1034,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.396438780687207
+  },
+  {
+    "seed": 1035,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.625744799204369
+  },
+  {
+    "seed": 1036,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.135202953108242
+  },
+  {
+    "seed": 1037,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 3.762141008080759
+  },
+  {
+    "seed": 1038,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.0281364954651595
+  },
+  {
+    "seed": 1039,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.127598464420938
+  },
+  {
+    "seed": 1040,
+    "family": "variable",
+    "window_days": 0.6,
+    "score": 4.226157963380847
+  },
+  {
+    "seed": 1001,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.261933809360901
+  },
+  {
+    "seed": 1002,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.935635123317108
+  },
+  {
+    "seed": 1003,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.068568190426458
+  },
+  {
+    "seed": 1004,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.803747274377188
+  },
+  {
+    "seed": 1005,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.341437848575548
+  },
+  {
+    "seed": 1006,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.108268901908218
+  },
+  {
+    "seed": 1007,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.924222228799802
+  },
+  {
+    "seed": 1008,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.4899472408116496
+  },
+  {
+    "seed": 1009,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.015922488598921
+  },
+  {
+    "seed": 1010,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.6678951813021303
+  },
+  {
+    "seed": 1011,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.62280165167617
+  },
+  {
+    "seed": 1012,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.005372607760421
+  },
+  {
+    "seed": 1013,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.420839699640873
+  },
+  {
+    "seed": 1014,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.442351243683889
+  },
+  {
+    "seed": 1015,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.7780359088723965
+  },
+  {
+    "seed": 1016,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.163327981320346
+  },
+  {
+    "seed": 1017,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.727003110431306
+  },
+  {
+    "seed": 1018,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.115566341148776
+  },
+  {
+    "seed": 1019,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.265838121691229
+  },
+  {
+    "seed": 1020,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.898791560172096
+  },
+  {
+    "seed": 1021,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.880234221369231
+  },
+  {
+    "seed": 1022,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.877212427588938
+  },
+  {
+    "seed": 1023,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.6278525007161004
+  },
+  {
+    "seed": 1024,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.7972719322221296
+  },
+  {
+    "seed": 1025,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.8322429426698776
+  },
+  {
+    "seed": 1026,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.8675063220972015
+  },
+  {
+    "seed": 1027,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.176293453925148
+  },
+  {
+    "seed": 1028,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.2018798277723155
+  },
+  {
+    "seed": 1029,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.8491382230527478
+  },
+  {
+    "seed": 1030,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.045788733086327
+  },
+  {
+    "seed": 1031,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.1092422734299685
+  },
+  {
+    "seed": 1032,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.260230166489885
+  },
+  {
+    "seed": 1033,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.7170470224652323
+  },
+  {
+    "seed": 1034,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.419608086814792
+  },
+  {
+    "seed": 1035,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.634129666929081
+  },
+  {
+    "seed": 1036,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.101177135454203
+  },
+  {
+    "seed": 1037,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 3.5548068399315156
+  },
+  {
+    "seed": 1038,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.136853564144806
+  },
+  {
+    "seed": 1039,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.058167012331213
+  },
+  {
+    "seed": 1040,
+    "family": "gapped",
+    "window_days": 0.6,
+    "score": 4.187786685841507
+  },
+  {
+    "seed": 1001,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.518163007824279
+  },
+  {
+    "seed": 1002,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.411617289743827
+  },
+  {
+    "seed": 1003,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.175378111900998
+  },
+  {
+    "seed": 1004,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.918970713012581
+  },
+  {
+    "seed": 1005,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.560611469306416
+  },
+  {
+    "seed": 1006,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.254957357639875
+  },
+  {
+    "seed": 1007,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.352931792721235
+  },
+  {
+    "seed": 1008,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.4404334308095237
+  },
+  {
+    "seed": 1009,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.1950992849512625
+  },
+  {
+    "seed": 1010,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.171999785202787
+  },
+  {
+    "seed": 1011,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.776733104417459
+  },
+  {
+    "seed": 1012,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.604013319427962
+  },
+  {
+    "seed": 1013,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.448935510732948
+  },
+  {
+    "seed": 1014,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.807107735680956
+  },
+  {
+    "seed": 1015,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.844828528107431
+  },
+  {
+    "seed": 1016,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.454851725987409
+  },
+  {
+    "seed": 1017,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.0959874124950115
+  },
+  {
+    "seed": 1018,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.494585703450651
+  },
+  {
+    "seed": 1019,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.361099592986587
+  },
+  {
+    "seed": 1020,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.425813286751168
+  },
+  {
+    "seed": 1021,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.191171190143463
+  },
+  {
+    "seed": 1022,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.417594777409933
+  },
+  {
+    "seed": 1023,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.7217835408923055
+  },
+  {
+    "seed": 1024,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.223608237822606
+  },
+  {
+    "seed": 1025,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.8603130491508333
+  },
+  {
+    "seed": 1026,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.6798938792022597
+  },
+  {
+    "seed": 1027,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.819913615918314
+  },
+  {
+    "seed": 1028,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.582925400428529
+  },
+  {
+    "seed": 1029,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.9095303044623977
+  },
+  {
+    "seed": 1030,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.483697570063266
+  },
+  {
+    "seed": 1031,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.581335936157032
+  },
+  {
+    "seed": 1032,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.545333100756377
+  },
+  {
+    "seed": 1033,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.6483440184691056
+  },
+  {
+    "seed": 1034,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 5.190490569428102
+  },
+  {
+    "seed": 1035,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.27217488166483
+  },
+  {
+    "seed": 1036,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.931824752154962
+  },
+  {
+    "seed": 1037,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.7159654132907582
+  },
+  {
+    "seed": 1038,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.9376358040204718
+  },
+  {
+    "seed": 1039,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 3.9002245730613185
+  },
+  {
+    "seed": 1040,
+    "family": "quiet",
+    "window_days": 1.2,
+    "score": 4.185445412782442
+  },
+  {
+    "seed": 1001,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.6291972719349594
+  },
+  {
+    "seed": 1002,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.639621746947279
+  },
+  {
+    "seed": 1003,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.111829893843836
+  },
+  {
+    "seed": 1004,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.8627296249923435
+  },
+  {
+    "seed": 1005,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.953893574232315
+  },
+  {
+    "seed": 1006,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.244892687404718
+  },
+  {
+    "seed": 1007,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.668088739907243
+  },
+  {
+    "seed": 1008,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.550028011418501
+  },
+  {
+    "seed": 1009,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.8968434059922754
+  },
+  {
+    "seed": 1010,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.266636511552035
+  },
+  {
+    "seed": 1011,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.795427955423183
+  },
+  {
+    "seed": 1012,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.753494199399725
+  },
+  {
+    "seed": 1013,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.628091004396647
+  },
+  {
+    "seed": 1014,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.2910809131781456
+  },
+  {
+    "seed": 1015,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.918456054234159
+  },
+  {
+    "seed": 1016,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.269948686422678
+  },
+  {
+    "seed": 1017,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.736452681252885
+  },
+  {
+    "seed": 1018,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.329667057501416
+  },
+  {
+    "seed": 1019,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.822373171419439
+  },
+  {
+    "seed": 1020,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.527039569361696
+  },
+  {
+    "seed": 1021,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.186338605761731
+  },
+  {
+    "seed": 1022,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.487196834106257
+  },
+  {
+    "seed": 1023,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.9059988189490444
+  },
+  {
+    "seed": 1024,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.853643284116449
+  },
+  {
+    "seed": 1025,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.7582520337280303
+  },
+  {
+    "seed": 1026,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.567910083781039
+  },
+  {
+    "seed": 1027,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.613116109005654
+  },
+  {
+    "seed": 1028,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.582958928085889
+  },
+  {
+    "seed": 1029,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.022174813971913
+  },
+  {
+    "seed": 1030,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.715076016689033
+  },
+  {
+    "seed": 1031,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.4620683215492045
+  },
+  {
+    "seed": 1032,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.358457778833774
+  },
+  {
+    "seed": 1033,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.5625316967331395
+  },
+  {
+    "seed": 1034,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.697500358280452
+  },
+  {
+    "seed": 1035,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.336991225679794
+  },
+  {
+    "seed": 1036,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.188546333819399
+  },
+  {
+    "seed": 1037,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.9535545337194162
+  },
+  {
+    "seed": 1038,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 3.925238075571918
+  },
+  {
+    "seed": 1039,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.0017372915546945
+  },
+  {
+    "seed": 1040,
+    "family": "variable",
+    "window_days": 1.2,
+    "score": 4.331841730167129
+  },
+  {
+    "seed": 1001,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.71209015429317
+  },
+  {
+    "seed": 1002,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.156113492813727
+  },
+  {
+    "seed": 1003,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.457468071009874
+  },
+  {
+    "seed": 1004,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.3512147483805705
+  },
+  {
+    "seed": 1005,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.798525760558916
+  },
+  {
+    "seed": 1006,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.10433838835954
+  },
+  {
+    "seed": 1007,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.057293992443683
+  },
+  {
+    "seed": 1008,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 3.755640876584832
+  },
+  {
+    "seed": 1009,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.043858601643872
+  },
+  {
+    "seed": 1010,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.1761206118835155
+  },
+  {
+    "seed": 1011,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 5.715173504723394
+  },
+  {
+    "seed": 1012,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.083152351497667
+  },
+  {
+    "seed": 1013,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 5.245097108760186
+  },
+  {
+    "seed": 1014,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.501744688275862
+  },
+  {
+    "seed": 1015,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.513868260930317
+  },
+  {
+    "seed": 1016,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.204512678800631
+  },
+  {
+    "seed": 1017,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.227672939757423
+  },
+  {
+    "seed": 1018,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.191872459334722
+  },
+  {
+    "seed": 1019,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.704859561843462
+  },
+  {
+    "seed": 1020,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.1702932974562295
+  },
+  {
+    "seed": 1021,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.604633702350942
+  },
+  {
+    "seed": 1022,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.079382335268154
+  },
+  {
+    "seed": 1023,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 3.8651089777685796
+  },
+  {
+    "seed": 1024,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.142472800096103
+  },
+  {
+    "seed": 1025,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.36664282993456
+  },
+  {
+    "seed": 1026,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 3.9551944266860333
+  },
+  {
+    "seed": 1027,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.679394306019876
+  },
+  {
+    "seed": 1028,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.729674115607282
+  },
+  {
+    "seed": 1029,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.280614532757146
+  },
+  {
+    "seed": 1030,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.142613329088504
+  },
+  {
+    "seed": 1031,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.543899766324401
+  },
+  {
+    "seed": 1032,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.335958455942808
+  },
+  {
+    "seed": 1033,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 3.855069985156792
+  },
+  {
+    "seed": 1034,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.4410055207121975
+  },
+  {
+    "seed": 1035,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.647282759291796
+  },
+  {
+    "seed": 1036,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 5.195958072289018
+  },
+  {
+    "seed": 1037,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 3.9965655282576957
+  },
+  {
+    "seed": 1038,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.898390163545248
+  },
+  {
+    "seed": 1039,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.15500396145217
+  },
+  {
+    "seed": 1040,
+    "family": "gapped",
+    "window_days": 1.2,
+    "score": 4.014345233481574
+  },
+  {
+    "seed": 1001,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.137632507054401
+  },
+  {
+    "seed": 1002,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.175200776223477
+  },
+  {
+    "seed": 1003,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.0379412144324585
+  },
+  {
+    "seed": 1004,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.8089030462780973
+  },
+  {
+    "seed": 1005,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.514256078542968
+  },
+  {
+    "seed": 1006,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.0972366943281155
+  },
+  {
+    "seed": 1007,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.356153529964175
+  },
+  {
+    "seed": 1008,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.6764685803449355
+  },
+  {
+    "seed": 1009,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.145736136970925
+  },
+  {
+    "seed": 1010,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.260359051859483
+  },
+  {
+    "seed": 1011,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.795393171804
+  },
+  {
+    "seed": 1012,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.8137948841430687
+  },
+  {
+    "seed": 1013,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.706463063650698
+  },
+  {
+    "seed": 1014,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.116038975879926
+  },
+  {
+    "seed": 1015,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.894638662593584
+  },
+  {
+    "seed": 1016,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.087550455315271
+  },
+  {
+    "seed": 1017,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.589206139065414
+  },
+  {
+    "seed": 1018,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.663372859370705
+  },
+  {
+    "seed": 1019,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.710553435137167
+  },
+  {
+    "seed": 1020,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.618507941787754
+  },
+  {
+    "seed": 1021,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.235481864168211
+  },
+  {
+    "seed": 1022,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.356657166451498
+  },
+  {
+    "seed": 1023,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.8145863074920405
+  },
+  {
+    "seed": 1024,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.246878327334919
+  },
+  {
+    "seed": 1025,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.941473812421564
+  },
+  {
+    "seed": 1026,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.6298348929046362
+  },
+  {
+    "seed": 1027,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 5.059731739346767
+  },
+  {
+    "seed": 1028,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.515261760686443
+  },
+  {
+    "seed": 1029,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.063842883579684
+  },
+  {
+    "seed": 1030,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.263845734863159
+  },
+  {
+    "seed": 1031,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.776438685115242
+  },
+  {
+    "seed": 1032,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.485116625680239
+  },
+  {
+    "seed": 1033,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 3.8198192252080494
+  },
+  {
+    "seed": 1034,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 5.41816634450609
+  },
+  {
+    "seed": 1035,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.170183187808566
+  },
+  {
+    "seed": 1036,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.370187108802129
+  },
+  {
+    "seed": 1037,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.070213082361455
+  },
+  {
+    "seed": 1038,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.04413226507976
+  },
+  {
+    "seed": 1039,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.093555714219447
+  },
+  {
+    "seed": 1040,
+    "family": "quiet",
+    "window_days": 2.4,
+    "score": 4.270024463604144
+  },
+  {
+    "seed": 1001,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.001582068649118
+  },
+  {
+    "seed": 1002,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.343029655129317
+  },
+  {
+    "seed": 1003,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.571175660861099
+  },
+  {
+    "seed": 1004,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.018136301183605
+  },
+  {
+    "seed": 1005,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.709795750130842
+  },
+  {
+    "seed": 1006,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.594490580107073
+  },
+  {
+    "seed": 1007,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.847433182151504
+  },
+  {
+    "seed": 1008,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.407215646895094
+  },
+  {
+    "seed": 1009,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.87208213946406
+  },
+  {
+    "seed": 1010,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.592758388504953
+  },
+  {
+    "seed": 1011,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.1936825515888465
+  },
+  {
+    "seed": 1012,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 3.845708737104827
+  },
+  {
+    "seed": 1013,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.436971360535622
+  },
+  {
+    "seed": 1014,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.1220920234950995
+  },
+  {
+    "seed": 1015,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.831338256809117
+  },
+  {
+    "seed": 1016,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.500324843738695
+  },
+  {
+    "seed": 1017,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.752423034007163
+  },
+  {
+    "seed": 1018,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.3341020235259275
+  },
+  {
+    "seed": 1019,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.538785867843001
+  },
+  {
+    "seed": 1020,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.933317756072837
+  },
+  {
+    "seed": 1021,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.438128993849849
+  },
+  {
+    "seed": 1022,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.124861723422175
+  },
+  {
+    "seed": 1023,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.092933630595547
+  },
+  {
+    "seed": 1024,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.026645781710745
+  },
+  {
+    "seed": 1025,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.328244260821329
+  },
+  {
+    "seed": 1026,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.568464271261666
+  },
+  {
+    "seed": 1027,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.472153667984096
+  },
+  {
+    "seed": 1028,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.851636264679564
+  },
+  {
+    "seed": 1029,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.8548695241882625
+  },
+  {
+    "seed": 1030,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.4977375431210325
+  },
+  {
+    "seed": 1031,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.014091804700624
+  },
+  {
+    "seed": 1032,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.204792827119777
+  },
+  {
+    "seed": 1033,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.1688853237941785
+  },
+  {
+    "seed": 1034,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 5.32164967921159
+  },
+  {
+    "seed": 1035,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.6316256469513295
+  },
+  {
+    "seed": 1036,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 6.024881913838302
+  },
+  {
+    "seed": 1037,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.971692514931579
+  },
+  {
+    "seed": 1038,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.428643491777334
+  },
+  {
+    "seed": 1039,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.645173032148209
+  },
+  {
+    "seed": 1040,
+    "family": "variable",
+    "window_days": 2.4,
+    "score": 4.808034842843412
+  },
+  {
+    "seed": 1001,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.068015194033055
+  },
+  {
+    "seed": 1002,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.194521640192738
+  },
+  {
+    "seed": 1003,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.931063729448248
+  },
+  {
+    "seed": 1004,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.245454679041087
+  },
+  {
+    "seed": 1005,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.127890552118132
+  },
+  {
+    "seed": 1006,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.64685834798946
+  },
+  {
+    "seed": 1007,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.024685187070563
+  },
+  {
+    "seed": 1008,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.889594292825564
+  },
+  {
+    "seed": 1009,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 7.279020543656508
+  },
+  {
+    "seed": 1010,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.3010372711113325
+  },
+  {
+    "seed": 1011,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 7.266904842863641
+  },
+  {
+    "seed": 1012,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 3.9229191266052466
+  },
+  {
+    "seed": 1013,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.740552023632873
+  },
+  {
+    "seed": 1014,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.750491693821947
+  },
+  {
+    "seed": 1015,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 9.108817701861058
+  },
+  {
+    "seed": 1016,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.980048764653065
+  },
+  {
+    "seed": 1017,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.873460992031562
+  },
+  {
+    "seed": 1018,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.749160929127979
+  },
+  {
+    "seed": 1019,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.476294463060513
+  },
+  {
+    "seed": 1020,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.622647110529427
+  },
+  {
+    "seed": 1021,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 7.161156059910412
+  },
+  {
+    "seed": 1022,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.547703356396031
+  },
+  {
+    "seed": 1023,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.5778151309205075
+  },
+  {
+    "seed": 1024,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.134340638496105
+  },
+  {
+    "seed": 1025,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.378254186349186
+  },
+  {
+    "seed": 1026,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.310606988807639
+  },
+  {
+    "seed": 1027,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.6822561601314066
+  },
+  {
+    "seed": 1028,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.546797841501003
+  },
+  {
+    "seed": 1029,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.984567812604129
+  },
+  {
+    "seed": 1030,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.513137533147822
+  },
+  {
+    "seed": 1031,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.090618695779755
+  },
+  {
+    "seed": 1032,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.677634848064386
+  },
+  {
+    "seed": 1033,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.792146544597473
+  },
+  {
+    "seed": 1034,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.994252696985022
+  },
+  {
+    "seed": 1035,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.976774987443772
+  },
+  {
+    "seed": 1036,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 6.361986145125873
+  },
+  {
+    "seed": 1037,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.908747959702337
+  },
+  {
+    "seed": 1038,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 5.024161330335381
+  },
+  {
+    "seed": 1039,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.243185246644389
+  },
+  {
+    "seed": 1040,
+    "family": "gapped",
+    "window_days": 2.4,
+    "score": 4.472334984539725
+  }
+]
