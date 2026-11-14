@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>TransitWeave · The repeating light experiment</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <a class="skip" href="#controls">Skip to experiment</a>
+    <header>
+      <a href="#" class="brand"
+        >TRANSITWEAVE<span>OBSERVATION STUDY / 013</span></a
+      ><span class="stamp">SYNTHETIC SKY<br />LOCAL EXPERIMENT</span>
+    </header>
+    <main>
+      <section class="intro">
+        <div>
+          <p class="eyebrow">01 / A SEARCH THROUGH STARLIGHT</p>
+          <h1>FIND THE<br /><em>REPEAT.</em></h1>
+        </div>
+        <div class="abstract">
+          <p>
+            A small dip. Then another.<br />Is there a signal beneath the star?
+          </p>
+          <p>
+            Fold 27 days of simulated photometry into one cycle. Compare a raw
+            box search with a rolling-median detrended search, and see what
+            survives the noise.
+          </p>
+          <p class="caution">
+            No real telescope data. No planet discoveries.<br />Every
+            observation here is generated locally.
+          </p>
+        </div>
+      </section>
+      <form id="controls">
+        <label
+          >Stellar field<select id="family">
+            <option value="variable">Variable star</option>
+            <option value="quiet">Quiet star</option>
+            <option value="gapped">Variable + observing gaps</option>
+          </select></label
+        ><label
+          >Scenario seed<input
+            id="seed"
+            type="number"
+            min="0"
+            max="1000000"
+            step="1"
+            value="3001"
+            required /></label
+        ><label
+          >Injected depth<select id="depth">
+            <option value="0">0 ppm · null control</option>
+            <option value="600">600 ppm · faint</option>
+            <option value="1200" selected>1200 ppm · moderate</option>
+            <option value="2400">2400 ppm · deep</option>
+          </select></label
+        ><button id="run" type="submit">
+          Generate & search <span>↗</span>
+        </button>
+      </form>
+      <p id="status" role="status">Loading experiment configuration…</p>
+      <p id="error" role="alert" hidden></p>
+      <section id="experiment" hidden>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">02 / THE OBSERVATION STRIP</p>
+            <h2>Same light. Two interpretations.</h2>
+          </div>
+          <label class="reveal"
+            ><input id="reveal" type="checkbox" /> Reveal injected signal</label
+          >
+        </div>
+        <div class="method-controls" role="group" aria-label="Search method">
+          <button type="button" id="detrended" aria-pressed="true">
+            Detrended search</button
+          ><button type="button" id="raw" aria-pressed="false">
+            Raw baseline</button
+          ><span id="method-note"></span>
+        </div>
+        <figure
+          class="wide-plot"
+          tabindex="0"
+          aria-label="Scrollable observation strip"
+        >
+          <svg
+            id="timeline"
+            viewBox="0 0 1100 290"
+            role="img"
+            aria-label="Observed relative flux over 27 days"
+          ></svg>
+          <figcaption>
+            <span class="key cyan">Observed flux</span
+            ><span class="key yellow" id="trend-key"
+              >Estimated rolling median</span
+            ><span id="truth-key" hidden
+              >Injected transit markers are evaluator-only.</span
+            ><span>Dots are observations; gaps contain no data.</span>
+          </figcaption>
+        </figure>
+        <div class="readout">
+          <div>
+            <span>STRONGEST TRIAL</span><strong id="best-period">—</strong>
+          </div>
+          <div>
+            <span>SEARCH SCORE / NULL THRESHOLD</span
+            ><strong id="score">—</strong>
+          </div>
+          <div>
+            <span>CALIBRATED DECISION</span><strong id="decision">—</strong>
+          </div>
+          <div><span>DISPLAYED RECORD</span><strong id="record">—</strong></div>
+        </div>
+        <div class="paired">
+          <figure>
+            <div class="plot-title">
+              <h3>01 · The period scan</h3>
+              <span>421 trial periods</span>
+            </div>
+            <svg
+              id="periodogram"
+              viewBox="0 0 540 310"
+              role="img"
+              aria-label="Detection score versus trial period"
+            ></svg>
+            <figcaption>
+              A high peak is a candidate, not proof. The dashed line is the
+              method’s threshold from independent no-transit simulations.
+            </figcaption>
+          </figure>
+          <figure>
+            <div class="plot-title">
+              <h3>02 · Fold the light</h3>
+              <span id="fold-label">—</span>
+            </div>
+            <svg
+              id="fold"
+              viewBox="0 0 540 310"
+              role="img"
+              aria-label="Observed flux folded by selected trial period"
+            ></svg>
+            <figcaption>
+              At the right period, repeated dips align. The red step shows the
+              fitted box only when viewing the best trial; bin means are cyan.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="scrubber">
+          <label for="trial"
+            >Inspect a trial period <output id="trial-output">—</output></label
+          ><input
+            id="trial"
+            type="range"
+            min="0"
+            max="420"
+            step="1"
+            value="0"
+          /><button type="button" id="best">Return to strongest trial</button>
+        </div>
+        <p id="truth" class="truth" hidden></p>
+        <div class="export-row">
+          <p>
+            Export includes the observations, both searches and separately
+            labeled injected truth.
+          </p>
+          <button id="export" type="button">Export displayed case ↓</button>
+        </div>
+      </section>
+      <section class="evidence">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">03 / THE HELD-OUT RECORD</p>
+            <h2>Recovery has a cost.</h2>
+          </div>
+          <p>
+            Untouched scenarios, shared across both methods.<br />Aliases count
+            as misses. Null alarms count as errors.
+          </p>
+        </div>
+        <div
+          class="table-scroll"
+          tabindex="0"
+          aria-label="Held-out benchmark results"
+        >
+          <table>
+            <caption>
+              Complete held-out benchmark · synthetic signals and null controls
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Stellar family</th>
+                <th scope="col">Method</th>
+                <th scope="col">Signals recovered</th>
+                <th scope="col">Null false alarms</th>
+              </tr>
+            </thead>
+            <tbody id="benchmark"></tbody>
+          </table>
+        </div>
+        <p class="fine" id="protocol"></p>
+      </section>
+      <section class="notes">
+        <div>
+          <p class="eyebrow">READING THE EXPERIMENT</p>
+          <h3>Shape, then repeat.</h3>
+          <p>
+            The search tries a low state and a high state at each period.
+            Removing slow stellar variation can expose the dips, but a short
+            detrending window can also erase them. The window is chosen using
+            validation scenarios only.
+          </p>
+        </div>
+        <div>
+          <p class="eyebrow">WHERE IT STOPS</p>
+          <h3>A controlled sky.</h3>
+          <p>
+            This model uses trapezoidal dips, sinusoidal stellar variation,
+            independent Gaussian noise and simplified gaps. It omits limb
+            darkening, eclipsing binaries, instrumental systematics and real
+            survey validation. No machine-learning model is claimed.
+          </p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>TRANSITWEAVE / EXPERIMENT SHEET 01</span
+      ><span>User-directed · Codex-implemented · Synthetic throughout</span>
+    </footer>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
