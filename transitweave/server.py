@@ -27,6 +27,7 @@ def run_case(payload, config):
 
 
 class Handler(SimpleHTTPRequestHandler):
+    timeout=5  # Bound incomplete local HTTP requests.
     def __init__(self,*args,**kwargs):
         super().__init__(*args,directory=str(ROOT/'web'),**kwargs)
 
@@ -58,6 +59,8 @@ class Handler(SimpleHTTPRequestHandler):
             try:result=run_case(payload,self.server.config)
             finally:self.server.gate.release()
             self.reply(200,result)
+        except TimeoutError:
+            self.reply(408,{'error':'request body timed out'})
         except (ValueError,TypeError) as exc:
             self.reply(400,{'error':str(exc)})
 
