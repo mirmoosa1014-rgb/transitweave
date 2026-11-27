@@ -54,7 +54,9 @@ class Handler(SimpleHTTPRequestHandler):
         try:
             length=int(self.headers.get('Content-Length','0'))
             if not 0<length<=512:raise ValueError('request must be 1–512 bytes')
-            payload=json.loads(self.rfile.read(length))
+            raw_body=self.rfile.read(length)
+            if len(raw_body)!=length:raise ValueError('incomplete request body')
+            payload=json.loads(raw_body)
             if not self.server.gate.acquire(blocking=False):return self.reply(429,{'error':'another simulation is running; retry shortly'})
             try:result=run_case(payload,self.server.config)
             finally:self.server.gate.release()
